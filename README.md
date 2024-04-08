@@ -38,8 +38,7 @@ Execute the programs and publish them.
         let y = event.clientY;
         document.getElementById("txt1").value=x;
         document.getElementById("txt2").value=y;
-
-    }
+ }
 </script>
 <body>
     <img src="map.png" usemap="#image-map">
